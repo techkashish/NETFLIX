@@ -173,7 +173,7 @@ body {
 
 @media screen and (max-width:500px) {
     .l {
-        font-size: 0.4rem;
+        font-size: 0.9rem;
     }
 }
 
@@ -444,4 +444,5 @@ footer a {
     width: 80vw;
     margin: auto;
     padding-top: 44px;
+
 }
